@@ -1,5 +1,5 @@
 # Iowa Liquor Sales
-Liquor Sales + Linear Regression
+Liquor Sales + Linear models
 
 --- 
 
